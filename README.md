@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Forms-and-Form-Validation
 =======
 # Getting Started with Create React App
